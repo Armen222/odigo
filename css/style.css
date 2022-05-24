@@ -533,7 +533,9 @@ textarea {
     max-width: 546px;
     margin-bottom: 59px;
   }
-
+  .search-form{
+      margin-bottom: 142px;
+  }
 
   .search-form_info{
       display: flex;
